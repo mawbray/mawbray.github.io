@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mawbray.github.ioblank/sitemap.xml
+Sitemap: https://mawbray.github.ioempty/sitemap.xml
